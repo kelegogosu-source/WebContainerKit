@@ -1,0 +1,9 @@
+platform :ios, '15.0'
+use_frameworks!
+
+target 'WebContainerDemo' do
+  pod 'WebContainerKit', :path => '..'
+  target 'WebContainerDemoTests' do
+    inherit! :search_paths
+  end
+end

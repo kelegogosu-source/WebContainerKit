@@ -1,0 +1,16 @@
+PODS:
+  - WebContainerKit (0.1.0)
+
+DEPENDENCIES:
+  - WebContainerKit (from `..`)
+
+EXTERNAL SOURCES:
+  WebContainerKit:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  WebContainerKit: 123bf4d41a1c5ff7d1a9d29cd4b3f1bb71840289
+
+PODFILE CHECKSUM: 13fd9a3ce0b85ec783c18619c9e5ee5c1ee0df03
+
+COCOAPODS: 1.16.2
