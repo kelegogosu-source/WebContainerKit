@@ -4,13 +4,13 @@
 
 ## 安装
 
-**当前版本尚未发布。** 发布后，可在 Podfile 中添加：
+在 Podfile 中添加：
 
 ```ruby
 pod 'WebContainerKit', '~> 0.1.0'
 ```
 
-公开 GitHub 及标签就绪后，也可直接从仓库安装，不依赖 Trunk 的目录索引：
+也可直接从仓库安装，不依赖 Trunk 的目录索引：
 
 ```ruby
 pod 'WebContainerKit', :git => 'https://github.com/kelegogosu-source/WebContainerKit.git', :tag => '0.1.0'
